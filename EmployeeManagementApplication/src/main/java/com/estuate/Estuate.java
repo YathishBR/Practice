@@ -312,6 +312,7 @@ public class Estuate {
 		//	session.getTransaction().commit();
 			session.close();
 			System.out.println("Thank You");
+			System.exit(0);
 			System.out.println("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
 		}
 	}
